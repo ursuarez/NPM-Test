@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "@ursuarez/npm-test",
   "version": "0.1.0",
   "description": "Traductor idioma inventado",
   "main": "dist/src/npm-test.js",
