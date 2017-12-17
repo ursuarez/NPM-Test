@@ -12,7 +12,7 @@ Este es un paquete de prueba que tiene la funcion de traducir palabras a un idio
 ## Instalación
 
 ```
-npm install s@ursuarez/npm-test 
+npm install @ursuarez/npm-test 
 ```
 
 ## Uso 
