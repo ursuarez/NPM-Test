@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "0.1.0",
+  "description": "Traductor idioma inventado",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursuarez/NPM-Test.git"
+  },
+  "keywords": [
+    "translate",
+    "js"
+  ],
+  "author": "Ricardo Suarez <ur.suarez@gmail.com>",
+  "license": "MIT"
+}
